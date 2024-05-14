@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/randomwords-API.git"
   },
   "keywords": [
-    "random word"," random words"," random word generator"," random words generator"," random word api"," random words api"," random word tool"," random words tool"," random word software"," random words software"," random word service"," random words service"," random word library"," random words library"," random word sdk"," random words sdk"," random word code"," random words code"," random word script"," random words script"," random word program"," random words program"," random word application"," random words application"," random word app"," random words app"," random word utility"," random words utility"," random word helper"," random words helper"," random word helper tool"," random words helper tool"," random word helper software"," random words helper software"," random word helper service"," random words helper service"," random word helper library"," random words helper library"," random word helper sdk"," random words helper sdk"," random word helper code"," random words helper code"," random word helper script"," random words helper script"," random word helper program"," random words helper program"," random word helper application"," random words helper application"," random word helper app"," random words helper app"," random word helper tool"," random words helper tool"," random word helper utility"," random words helper utility"," random word helper"
+    "random word","random words","random word generator","random words generator","random word api"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }
