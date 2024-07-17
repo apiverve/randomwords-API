@@ -69,29 +69,11 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "word": "hang",
+    "word": "paris",
     "definitions": [
-      "To suspend; to fasten to some elevated point without support from below; -- often used with up or out; as, to hang a coat on a hook; to hang up a sign; to hang out a banner.",
-      "To fasten in a manner which will allow of free motion upon the point or points of suspension; -- said of a pendulum, a swing, a door, gate, etc.",
-      "To fit properly, as at a proper angle (a part of an implement that is swung in using), as a scythe to its snath, or an ax to its helve. [U. S.]",
-      "To put to death by suspending by the neck; -- a form of capital punishment; as, to hang a murderer.",
-      "To cover, decorate, or furnish by hanging pictures trophies, drapery, and the like, or by covering with paper hangings; -- said of a wall, a room, etc. Hung be the heavens with black. Shak. And hung thy holy roofs with savage spoils. Dryden.",
-      "To paste, as paper hangings, on the walls of a room.",
-      "To hold or bear in a suspended or inclined manner or position instead of erect; to droop; as, he hung his head in shame. Cowslips wan that hang the pensive head. Milton. To hang down, to let fall below the proper position; to bend down; to decline; as, to hang down the head, or, elliptically, to hang the head. -- To hang fire (Mil.), to be slow in communicating fire through the vent to the charge; as, the gun hangs fire; hence, to hesitate, to hold back as if in suspense.",
-      "To be suspended or fastened to some elevated point without support from below; to dangle; to float; to rest; to remain; to stay.",
-      "To be fastened in such a manner as to allow of free motion on the point or points of suspension.",
-      "To die or be put to death by suspension from the neck. [R.] \"Sir Balaam hangs.\" Pope.",
-      "To hold for support; to depend; to cling; -- usually with on or upon; as, this question hangs on a single point. \"Two infants hanging on her neck.\" Peacham.",
-      "To be, or be like, a suspended weight. Life hangs upon me, and becomes a burden. Addison.",
-      "To hover; to impend; to appear threateningly; -- usually with over; as, evils hang over the country.",
-      "To lean or incline; to incline downward. To decide which way hung the victory. Milton. His neck obliquely o'er his shoulder hung. Pope.",
-      "To slope down; as, hanging grounds.",
-      "To be undetermined or uncertain; to be in suspense; to linger; to be delayed. A noble stroke he lifted high, Which hung not, but so swift with tempest fell On the proud crest of Satan. Milton. To hang around, to loiter idly about. -- To hang back, to hesitate; to falter; to be reluctant. \"If any one among you hangs back.\" Jowett (Thucyd.). -- To hang by the eyelids. (a) To hang by a very slight hold or tenure. (b) To be in an unfinished condition; to be left incomplete. -- To hang in doubt, to be in suspense. -- To hang on (with the emphasis on the preposition), to keep hold; to hold fast; to stick; to be persistent, as a disease. -- To hang on the lips, words, etc., to be charmed by eloquence. -- To hang out. (a) To be hung out so as to be displayed; to project. (b) To be unyielding; as, the juryman hangs out against an agreement. [Colloq.] (c) to lounge around a particular place; as, teenageers tend to hang out at the mall these days -- To hang over. (a) To project at the top. (b) To impend over. -- To hang to, to cling. -- To hang together. (a) To remain united; to stand by one another. \"We are all of a piece; we hang together.\" Dryden. (b) To be self- consistent; as, the story does not hang together. [Colloq.] -- To hang upon. (a) To regard with passionate affection. (b) (Mil.) To hover around; as, to hang upon the flanks of a retreating enemy.",
-      "The manner in which one part or thing hangs upon, or is connected with, another; as, the hang of a scythe.",
-      "Connection; arrangement; plan; as, the hang of a discourse. [Colloq.]",
-      "A sharp or steep declivity or slope. [Colloq.] To get the hang of, to learn the method or arrangement of; hence, to become accustomed to. [Colloq.]"
+      "A plant common in Europe (Paris quadrifolia); herb Paris; truelove. It has been used as a narcotic. Note: It much resembles the American genus Trillium, but has usually four leaves and a tetramerous flower.  The chief city of France. Paris green. See under Green, n. -- Paris white (Chem.), purified chalk used as a pigment; whiting; Spanish white."
     ],
-    "pronounciation": "HH AE1 NG"
+    "pronounciation": "P EH1 R IH0 S"
   }
 }
 ```
