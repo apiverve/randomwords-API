@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/randomwords",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Random Word is a simple tool for getting random words. It returns a random word.",
   "main": "index.js",
   "scripts": {
