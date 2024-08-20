@@ -69,12 +69,12 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "word": "paris",
+    "word": "cerebellous",
     "definitions": [
-      "A plant common in Europe (Paris quadrifolia); herb Paris; truelove. It has been used as a narcotic. Note: It much resembles the American genus Trillium, but has usually four leaves and a tetramerous flower.  The chief city of France. Paris green. See under Green, n. -- Paris white (Chem.), purified chalk used as a pigment; whiting; Spanish white."
-    ],
-    "pronounciation": "P EH1 R IH0 S"
-  }
+      "Pertaining to the cerebellum."
+    ]
+  },
+  "code": 200
 }
 ```
 
