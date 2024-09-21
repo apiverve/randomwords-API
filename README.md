@@ -69,10 +69,13 @@ api.execute(function (error, data) {
   "status": "ok",
   "error": null,
   "data": {
-    "word": "cerebellous",
+    "word": "illustrious",
     "definitions": [
-      "Pertaining to the cerebellum."
-    ]
+      "Possessing luster or brightness; brilliant; luminous; splendid. Quench the light; thine eyes are guides illustrious. Beau. & Fl.",
+      "Characterized by greatness, nobleness, etc.; eminent; conspicuous; distinguished. Illustrious earls, renowened everywhere. Drayton.",
+      "Conferring luster or honor; renowned; as, illustrious deeds or titles. Syn. -- Distinguished; famous; remarkable; brilliant; conspicuous; noted; celebrated; signal; renowened; eminent; exalted; noble; glorious. See Distinguished, Famous."
+    ],
+    "pronounciation": "IH2 L AH1 S T R IY0 AH0 S"
   },
   "code": 200
 }
